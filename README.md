@@ -32,12 +32,7 @@ Maryland Polyvore dataset (33,375 outfits)
 - Download from Kaggle: https://www.kaggle.com/datasets/dnepozitek/maryland-polyvore-images
 - Place in: `/path/to/dataset/images/`
 
-## Code Files
-1. `data_preparation.py` - Dataset generation (20k training pairs)
-2. `models.py` - Model architectures (Baseline, Siamese, Siamese+Color)
-3. `train.py` - Training script
-4. `evaluate.py` - Evaluation and metrics
-5. `color_features.py` - Color harmony feature extraction
+
 
 ## Running the Code
 
@@ -69,7 +64,7 @@ python evaluate.py --model_path /path/to/model.pth
 - Siamese+Color: 53.40% accuracy
 
 ## Trained Model Weights
-Download from: [[Google Drive Link]([url](https://drive.google.com/drive/folders/1cpMSupomf2r1tWMoYqYVCRRDtcxl0Hyk?usp=drive_link))]
+Download from: [[Google Drive Link]((https://drive.google.com/drive/folders/1cpMSupomf2r1tWMoYqYVCRRDtcxl0Hyk?usp=drive_link))]
 
 Place in: `./models/` directory
 
