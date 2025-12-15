@@ -64,7 +64,7 @@ python evaluate.py --model_path /path/to/model.pth
 - Siamese+Color: 53.40% accuracy
 
 ## Trained Model Weights
-Download from: [[Google Drive Link]((https://drive.google.com/drive/folders/1cpMSupomf2r1tWMoYqYVCRRDtcxl0Hyk?usp=drive_link))]
+Download from: [[Google Drive Link =(https://drive.google.com/drive/folders/1cpMSupomf2r1tWMoYqYVCRRDtcxl0Hyk?usp=drive_link)
 
 Place in: `./models/` directory
 
